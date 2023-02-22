@@ -2,7 +2,10 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000235
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
-about: []
+about:
+- {}
+- identifier: Zebrafish Forebrain
+  schemaKey: GenericType
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -35,8 +38,8 @@ assetsSummary:
   - OpticalChannel
   - ProcessingModule
   - TwoPhotonSeries
-citation: Haesemeyer, Martin (2023) Thermoregulatory Responses Forebrain (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000235/draft
+citation: Haesemeyer, Martin; Balakrishnan, Kaarthik (2023) Thermoregulatory Responses
+  Forebrain (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000235/draft
 contributor:
 - awardNumber: 1 R01 NS 123887-01
   name: National Institutes of Health (NIH)
@@ -49,6 +52,12 @@ contributor:
   name: Haesemeyer, Martin
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Balakrishnan, Kaarthik
+  roleName:
+  - dcite:DataCollector
   schemaKey: Person
 dateCreated: '2022-04-16T22:41:44.593075+00:00'
 description: Imaging in the forebrain of nac -/-; Elavl3-H2B:GCaMP6s +/-; vglut2a-mCherry
