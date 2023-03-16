@@ -41,7 +41,7 @@ assetsSummary:
   - BehavioralTimeSeries
   - ImagingPlane
 citation: Haesemeyer, Martin; Balakrishnan, Kaarthik (2023) Thermoregulatory Responses
-  Forebrain (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000235/draft
+  Forebrain (Version 0.230316.1600) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000235/0.230316.1600
 contributor:
 - awardNumber: 1 R01 NS 123887-01
   name: National Institutes of Health (NIH)
@@ -65,14 +65,15 @@ dateCreated: '2022-04-16T22:41:44.593075+00:00'
 datePublished: '2023-03-16T16:00:04.587728+00:00'
 description: Imaging in the forebrain of nac -/-; Elavl3-H2B:GCaMP6s +/-; vglut2a-mCherry
   +/- larval zebrafish during random wave temperature stimulus presentation
+doi: 10.48324/dandi.000235/0.230316.1600
 ethicsApproval: []
-id: DANDI:000235/draft
+id: DANDI:000235/0.230316.1600
 identifier: DANDI:000235
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000235/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000235/0.230316.1600/assets.yaml
 name: Thermoregulatory Responses Forebrain
 protocol: []
 publishedBy:
@@ -92,6 +93,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000235/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000235/0.230316.1600
+version: 0.230316.1600
 wasGeneratedBy: []
