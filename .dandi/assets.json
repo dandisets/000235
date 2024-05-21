@@ -5,7 +5,7 @@
 "blob":
 "5f518f65-d329-4d94-8d12-cfcd43d77f2f",
 "created":
-"2023-03-16T15:38:40.622385+00:00",
+"2023-03-16T15:38:40.622385Z",
 "metadata":
 {
 "@context":
@@ -247,7 +247,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.728232+00:00",
+"2023-03-16T16:00:04.728232Z",
 "path":
 "sub-Fish01-GCaMP-vlgut-FBd-5dpf-RandomWave/sub-Fish01-GCaMP-vlgut-FBd-5dpf-RandomWave_ses-20210818T112556_behavior+ophys.nwb",
 "size":
@@ -259,7 +259,7 @@
 "blob":
 "35b960de-3b72-46b5-870b-0f5c9d4ba924",
 "created":
-"2023-03-16T15:38:49.976695+00:00",
+"2023-03-16T15:38:49.976695Z",
 "metadata":
 {
 "@context":
@@ -501,7 +501,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.745434+00:00",
+"2023-03-16T16:00:04.745434Z",
 "path":
 "sub-Fish02-GCaMP-vlgut-FBv-5dpf-RandomWave/sub-Fish02-GCaMP-vlgut-FBv-5dpf-RandomWave_ses-20210818T173531_behavior+ophys.nwb",
 "size":
@@ -513,7 +513,7 @@
 "blob":
 "3b2332a8-80f9-43a2-83ac-9f81577972eb",
 "created":
-"2023-03-16T15:49:51.119328+00:00",
+"2023-03-16T15:49:51.119328Z",
 "metadata":
 {
 "@context":
@@ -755,7 +755,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.779812+00:00",
+"2023-03-16T16:00:04.779812Z",
 "path":
 "sub-Fish13-GCaMP-vlgut-FBv-5dpf-RandomWave/sub-Fish13-GCaMP-vlgut-FBv-5dpf-RandomWave_ses-20210830T100716_behavior+ophys.nwb",
 "size":
@@ -767,7 +767,7 @@
 "blob":
 "88e496a4-d4c7-4c05-9f4d-0feda95112f2",
 "created":
-"2023-03-16T15:46:46.814078+00:00",
+"2023-03-16T15:46:46.814078Z",
 "metadata":
 {
 "@context":
@@ -1009,7 +1009,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.770802+00:00",
+"2023-03-16T16:00:04.770802Z",
 "path":
 "sub-Fish31-GCaMP-vlgut-FBd-5dpf-RandomWave/sub-Fish31-GCaMP-vlgut-FBd-5dpf-RandomWave_ses-20210920T120959_behavior+ophys.nwb",
 "size":
@@ -1021,7 +1021,7 @@
 "blob":
 "d217380d-9966-4275-bc27-26bcaa4ec2ba",
 "created":
-"2023-03-16T15:38:45.224160+00:00",
+"2023-03-16T15:38:45.224160Z",
 "metadata":
 {
 "@context":
@@ -1263,7 +1263,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.760028+00:00",
+"2023-03-16T16:00:04.760028Z",
 "path":
 "sub-Fish32-GCaMP-vlgut-FBv-5dpf-RandomWave/sub-Fish32-GCaMP-vlgut-FBv-5dpf-RandomWave_ses-20210920T181347_behavior+ophys.nwb",
 "size":
@@ -1275,7 +1275,7 @@
 "blob":
 "f64dd869-e8b5-4df0-9825-6aebbabad1cb",
 "created":
-"2023-03-16T15:49:25.362788+00:00",
+"2023-03-16T15:49:25.362788Z",
 "metadata":
 {
 "@context":
@@ -1517,7 +1517,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.794215+00:00",
+"2023-03-16T16:00:04.794215Z",
 "path":
 "sub-Fish41-GCaMP-vlgut-FBv-7dpf-RandomWave/sub-Fish41-GCaMP-vlgut-FBv-7dpf-RandomWave_ses-20210929T173736_behavior+ophys.nwb",
 "size":
@@ -1529,7 +1529,7 @@
 "blob":
 "6165f3b8-315b-476e-93c9-af7d234e0740",
 "created":
-"2023-03-16T15:37:56.471358+00:00",
+"2023-03-16T15:37:56.471358Z",
 "metadata":
 {
 "@context":
@@ -1771,7 +1771,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.717260+00:00",
+"2023-03-16T16:00:04.717260Z",
 "path":
 "sub-Fish47-GCaMP-vlgut-FBd-7dpf-RandomWave/sub-Fish47-GCaMP-vlgut-FBd-7dpf-RandomWave_ses-20211124T174401_behavior+ophys.nwb",
 "size":
@@ -1783,7 +1783,7 @@
 "blob":
 "3e7459a2-5db0-43d1-a5a9-4bb4a2d3caed",
 "created":
-"2023-03-16T15:37:45.671031+00:00",
+"2023-03-16T15:37:45.671031Z",
 "metadata":
 {
 "@context":
@@ -2025,7 +2025,7 @@
 ]
 },
 "modified":
-"2023-03-16T16:00:04.705699+00:00",
+"2023-03-16T16:00:04.705699Z",
 "path":
 "sub-Fish58-GCaMP-vlgut-FBd-5dpf-RandomWave/sub-Fish58-GCaMP-vlgut-FBd-5dpf-RandomWave_ses-20220525T092829_behavior+ophys.nwb",
 "size":
